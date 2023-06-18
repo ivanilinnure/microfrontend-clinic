@@ -1,0 +1,11 @@
+#auth-container {
+  place-items: center center;
+}
+
+#auth-form {
+  max-width: 330px;
+}
+
+.form-control:focus {
+  z-index: 5;
+}
